@@ -20,7 +20,7 @@ const func = (args: string) => console.log(args);
     </div>
   </header>
 
-  <main>
+  <main class="bg-[#fab]">
     <TheWelcome />
   </main>
 </template>
