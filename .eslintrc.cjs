@@ -12,5 +12,8 @@ module.exports = {
   plugins: ['vuejs-accessibility'],
   parserOptions: {
     ecmaVersion: 'latest'
+  },
+  rules: {
+    'no-plusplus': 'off'
   }
 };
